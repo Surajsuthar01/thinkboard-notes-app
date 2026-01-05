@@ -41,6 +41,3 @@ connectDB().then(()=>{
 });
 
 
-// K49UzyevdVoNum1R
-
-// mongodb+srv://surajsuthar0654_db_user:K49UzyevdVoNum1R@cluster0.kh9ibyo.mongodb.net/?appName=Cluster0
